@@ -1,0 +1,21 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "no-console": "off",
+    "camelcase": "off",
+    "func-names": "off",
+    "consistent-return": "off",
+    "prefer-destructuring": "off",
+    "no-shadow": "off",
+    "no-underscore-dangle": "off",
+    "no-else-return": "off",
+    "no-param-reassign": "off",
+    "no-lonely-if": "off",
+    "max-len": 1,
+    "prefer-promise-reject-errors": "warn",
+    "no-mixed-operators": "off",
+    "eqeqeq": "warn",
+    "no-restricted-syntax": "off",
+    "no-await-in-loop": "off"
+  }
+}

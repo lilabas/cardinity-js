@@ -1,0 +1,33 @@
+{
+  "name": "cardinity-js",
+  "version": "0.0.1",
+  "description": "Node.JS wrapper for Cardinity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilabas/cardinity-js.git"
+  },
+  "keywords": [
+    "cardinity",
+    "wrapper"
+  ],
+  "author": "Li Labas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lilabas/cardinity-js/issues"
+  },
+  "homepage": "https://github.com/lilabas/cardinity-js#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "oauth-signature": "^1.5.0",
+    "unique-string": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.0.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0"
+  }
+}
