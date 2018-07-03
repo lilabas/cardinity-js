@@ -11,7 +11,7 @@ $ npm install --save cardinity-js
 ## Usage
 
 ```
-const cardinty = require("cardinity-js");
+const cardinity = require("cardinity-js");
 ```
 
 ## License
