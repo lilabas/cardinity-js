@@ -10,7 +10,7 @@ $ npm install --save cardinity-js
 
 ## Usage
 
-```
+```js
 const cardinity = require('cardinity-js');
 const CardinityClient = cardinity.client();
 const Payment = cardinity.payment();
